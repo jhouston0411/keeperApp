@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background: #eee;
+}
+.head{
+  background-color: #f5ba13;
+  padding: 16px 32px;
+  box-shadow: 1px 1px 10px rgba(0,0,0, .4);
+}
+.head h1{
+  margin: 0;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  color:white;
+}
+.footer{
+  position: absolute;
+  bottom:0;
+  width: 100%;
+}
+.footer p{
+  text-align: center;
+}
+.note{
+  width:240px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px #ccc;
+  border-radius: 7px;
+  padding: 16px;
+  margin: 16px 32px;
+
+}
+.note h1{
+  font-size: 1.1em;
+  margin:0;
+  margin-bottom:6px;
+}
+.note p{
+  margin:0;
+}
